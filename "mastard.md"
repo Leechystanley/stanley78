@@ -4,20 +4,42 @@ Alzeimer's disease is a progressive neurodegenerative disorders causing cognitiv
 millions globally.
 Also Neurodegerative disease like Alzheimer's and Parkison's involve the progressive loss of neurons and cognitive decline due to specific brain pathological changes
 # Refferences
-Braak, H., & Braak, E. (1991). Neuropathological stageing of Alzheimer-related
+ 1.Braak, H., & Braak, E. (1991). Neuropathological stageing of Alzheimer-related
 changes. Acta Neuropathologica, 82(4), 239–259. https://doi.org/10.1007/BF0030880
 
-Selkoe, D. J., & Hardy, J. (2016). The amyloid hypothesis of Alzheimer’s disease at 25
-years. EMBO Molecular Medicine, 8(6), 595–608. https://doi.org/10.15252/emmm.201606210
+Summary
+ Intro:  The paper by Braak and Braak presents a systematic approach to understanding neuropathological changes associated
+with Alzheimer's disease. They emphasize the importance of staging these changes to better comprehend the disease's
+progression and its clinical implications.
 
-Iqbal, K., & Grundke-Iqbal, I. (2010). Neurofibrillary pathology in Alzheimer’s disease: A
+Method: The authors use post-mortem brain samples from patients diagnosed with Alzheimer's
+disease to assess Alzheimer-related changes in brain tissue, identifying neurofibrillary tangles and senile plaques.
+The study examines various brain regions, revealing distinct patterns of neurofibrillary tangles and plaque distribution across
+different stages of the disease. They outline six stages of pathology, highlighting how these changes correlate with clinical
+symptoms and cognitive decline. 
+
+Result: The findings indicate that certain brain regions are affected earlier than others, providing
+insights into the progression of Alzheimer's.
+
+Discussion: The authors argue that their staging system offers a valuable framework for
+understanding disease progression and can aid in diagnosis and treatment strategies. They also suggest potential implications
+for future research, suggesting that further studies could enhance our understanding of underlying mechanisms and lead to improved
+therapeutic approaches.
+
+ 2.Hardy, J., & Selkoe, D.J. (2002). The amyloid hypothesis of Alzheimer’s disease: Progress
+and problems on the road to therapeutics. Science, 297(5580), 353–356. https://doi.org/10.1126/science.1072994
+
+
+
+ 3.Iqbal, K., & Grundke-Iqbal, I. (2010). Neurofibrillary pathology in Alzheimer’s disease: A
 historical perspective on the discovery of tau protein and its role in
 neurodegeneration. Journal of Alzheimer’s Disease, 19(3), 1045–1054. https://doi.org/10.3233/JAD-2010-1287
 
-Hardy, J., & Selkoe, D.J. (2002). The amyloid hypothesis of Alzheimer’s disease: Progress
-and problems on the road to therapeutics. Science, 297(5580), 353–356. https://doi.org/10.1126/science.1072994
+ 4.Selkoe, D. J., & Hardy, J. (2016). The amyloid hypothesis of Alzheimer’s disease at 25
+years. EMBO Molecular Medicine, 8(6), 595–608. https://doi.org/10.15252/emmm.201606210
 
-Zetterberg, H., & Blennow, K.(2018). From cerebrospinal fluid biomarkers to blood tests 
+
+ 5.Zetterberg, H., & Blennow, K.(2018). From cerebrospinal fluid biomarkers to blood tests 
 for Alzheimer’s disease: A review on current progress and future directions for research and
 clinical practice.Frontiers in Aging Neuroscience, 10(1), Article 224 https://doi.org/10.3389/fnagi.2018.00224
 
