@@ -25,9 +25,7 @@ Result: The findings indicate that certain brain regions are affected earlier th
 insights into the progression of Alzheimer's.
 
 Discussion: The authors argue that their staging system offers a valuable framework for
-understanding disease progression and can aid in diagnosis and treatment strategies. They also suggest potential implications
-for future research, suggesting that further studies could enhance our understanding of underlying mechanisms and lead to improved
-therapeutic approaches.
+understanding disease progression and can aid in diagnosis and treatment strategies.
 
 Critics; Braak & Braak's 1991 article on Alzheimer's pathology has been critized for its methodology,scope,reproducibility,
 and evolving scientific knowledge,necessitating ongoing research to refine our understanding
@@ -62,26 +60,38 @@ Edited Refrence:
 https://doi.org/10.3233/JAD-2010-1287
 
    INTRO;  The paper by Iqbal and Grundke-Iqbal provides a historical overview of the discovery of tau protein and its role in Alzheimer's diseas
-pathology. It highlights the evolution of research on tau, its function, and its implications in neurodegeneration. The authors discuss how tau
+pathology.
+
+# Additional information for 
+It highlights the evolution of research on tau, its function, and its implications in neurodegeneration. The authors discuss how tau
 protein becomes hyperphosphorylated in Alzheimers leading to neurofibrillary tangles, a hallmark of the condition. This pathological process
 in linked to neuronal dysfunction,and cell death,understanding tau's critical role in Alzheimer's progression. The article highlights tau's
  importance as a biomaker for diagnosis and therapeutic intervention.
    
 METHOD; It reviews key studies and milestones in tau research, highlighting the correlation between tau pathology and cognitive
-decline in Alzheimer's patients. The authors use qualitative methodology, analyzing historical documents,scientific publications
+decline in Alzheimer's patients.
+
+#Additional information
+The authors use qualitative methodology, analyzing historical documents,scientific publications
 , and clinical studies to understand tau pathology over time. They highlight key milestones in tau research, including the initial
 identification of tau protein and its characterization as a microtubule-associated protein. They discuss experimental approaches used
  to investigate tau's role in neurofibrillary tangles,hallmark features of Alzheimers disease. They also highlight the correlation
 between tau pathology and cognitive decline emphasizing the impoetance of immunistochemecal techniques in usualizing tau deposits in the brain tissues.
 
    RESULT; The authors emphasize the need for continued exploration into tau-targeted interventions. The article provides detailed
-analysis of the discovery of tau protein and its role in Alzheimer's disease. The protein initially identified for stabilizing microtubules,
+analysis of the discovery of tau protein and its role in Alzheimer's disease. 
+
+# Addtional information
+The protein initially identified for stabilizing microtubules,
  has been linked to neurodegeneration when hyperphosphorylated, leading to the formation of neurofibrillary tangles,a hallmark feature
 of aAlzheimer's disease. These tangles contribute to neuronal disfunction and cell death exacerbating cognitive decline. The authors highlight
 key research milestones that have elucidated the relationship between tau phosphorylation and neurodegenerative processes, emphasizing tau as a
 potential therapeutic target. 
     DISCUSSION; The discovery of tau protein has significantly improved our understanding of neurofibillary pathology in Alzheimer's disease.
-Initially a microtubule associated protein, tau stabilizes microtubules maintaing neuronal structure and function.However, hyperphosphorylation
+Initially a microtubule associated protein, tau stabilizes microtubules maintaing neuronal structure and function.
+
+#Additional information
+However, hyperphosphorylation
 of tau leads to to its aggregation into neuro fibrillary tangles, a hallmark feature of the diesase. This disrupts normal cellular process and 
 contributes to neurodegeneration. Research shows that that neurofibrillary tangles corelate more closely with cognitive decline then amyloid
 plaques, suggesting tau pathology may be a more critical target for therapeutic intervention. Understanding the mechanisims by which tau
@@ -108,7 +118,8 @@ https://doi.org/10.15252/emmm.201606210
 
       INTRO;  Selkoe and Hardy's 2016 paper revisits the amyloid hypothesis, suggesting that the accumulation of amyloid-beta peptides in the 
 brain is a key factor in Alzheimer's disease.
-      METHO;  They evaluate the validity and implications of this hypothesis, RESULT; citing various
+      METHO;  They evaluate the validity and implications of this hypothesis,
+RESULT; citing various
 evidence from genetic studies, biochemical analyses, and imaging techniques. 
    DISCUSSION;  The authors acknowledge the strengths and limitation
 s of the amyloid hypothesis and suggest it should be combined with other theories for a more comprehensive understanding of
