@@ -235,8 +235,27 @@ To build upon these findings, future research should consider longitudinal studi
 7.Heneka, M. T., Carson, M. J., El Khoury, J., Landreth, G. E., Brosseron, F., Feinstein, D. L., ... & Kummer, M. P. (2015). Neuroinflammation in Alzheimer's disease. 
 The Lancet Neurology, 14(4), 388-405.
 
+SUMMARY:
+Heneka et al.'s 2015 study investigated the role of microglial activation in Alzheimer's Disease (AD) pathology. Microglia, resident immune cells in the brain, have been linked to neurodegenerative diseases, including AD.
+The researchers used a combination of in vitro and in vivo experimental approaches, using transgenic mouse models to mimic AD pathology. They assessed microglial activation, amyloid-beta deposition, and neuroinflammation, and measured cytokine levels using ELISA.
+
+Results showed that activated microglia were significantly associated with increased amyloid-beta plaque formation in the brains of transgenic mice. These activated microglia released pro-inflammatory cytokines, contributing to neurodegeneration. Elevated levels of TNF-α and IL-1β were observed, suggesting a direct link between microglial activation and AD pathology.
+
+However, critics pointed out potential biases due to the reliance on animal models that may not fully replicate human disease conditions. Additionally, the study's focus on specific inflammatory mediators might overlook other critical pathways involved in AD progression. The temporal dynamics of microglial activation during different stages of disease progression also require further investigation.
+
+To address these limitations, future research should consider using multiple animal models, longitudinal studies examining the timing and nature of microglial activation, and exploring therapeutic interventions targeting microglial activity.
+
+
+
+
 8.Adorni, M. P., Ruscica, M., Ferri, N., Bernini, F., & Zimetti, F. (2019). Proprotein convertase subtilisin/kexin type 9, brain cholesterol homeostasis and potential implication for Alzheimer’s disease.
 Frontiers in aging neuroscience, 11, 120.
-9.Eltes, P. E., Kiss, L., Bartos, M., Gyorgy, Z. M., Csakany, T., Bereczki, F., ... & Lazary, A. (2020). Geometrical accuracy evaluation of an affordable 3D printing technology for spine physical models.
-Journal of Clinical Neuroscience, 72, 438-446.
 
+SUMMARY:Adorni et al.'s 2019 study explores the role of Proprotein Convertase Subtilisin/Kexin Type 9 (PCSK9) in brain cholesterol homeostasis and its potential implications for Alzheimer's disease (AD). The study used experimental approaches, including animal models and biochemical assays, to assess changes in brain cholesterol levels and related pathways.
+The results showed that PCSK9 deficiency led to altered cholesterol levels in the brain, with an increase in total cholesterol content. Reduced PCSK9 activity was associated with enhanced expression of genes involved in cholesterol transport and metabolism, suggesting that PCSK9 plays a significant role in maintaining brain cholesterol homeostasis, which could have implications for AD pathology.
+
+However, the study has some limitations, including its reliance on animal models, its focus on male mice, and the lack of long-term effects of altered PCSK9 levels on cognitive function. Additionally, further studies involving human subjects are needed to validate these findings.
+
+The authors recommend future research should focus on understanding the precise mechanisms by which PCSK9 influences brain cholesterol homeostasis and its potential link to Alzheimer's disease progression. They suggest exploring therapeutic strategies targeting PCSK9 to modulate cholesterol levels in the brain and potentially mitigate AD risk or progression.
+
+9
