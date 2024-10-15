@@ -272,7 +272,12 @@ Limitations of their review include heterogeneity among studies regarding sample
 
 # Alzheimer's Disease
 ## " The Role of Inflammation in Alzheimer's Disease
-INRODUCTION:
+INRODUCTION:Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive decline, memory loss, and behavioral changes. The exact etiology of AD remains complex, but recent research has increasingly highlighted the significant role that inflammation plays in its pathogenesis. Neuroinflammation refers to the inflammatory response within the central nervous system (CNS), including the brain and spinal cord, primarily mediated by glial cells such as microglia and astrocytes. In a healthy brain, these cells act as guardians, clearing debris and promoting repair. However, in AD, this protective mechanism can become dysregulated.
+
+Microglia are particularly important in AD as they are responsible for phagocytosing amyloid-beta plaques, which are hallmark features of the disease. Chronic activation of microglia can lead to a sustained inflammatory response that exacerbates neuronal damage rather than protecting it. Research has shown that amyloid-beta accumulation triggers an inflammatory response in the brain, leading to the proliferation and release of pro-inflammatory cytokines such as TNF-α and IL-1β.
+These cytokines can further promote neuroinflammation and contribute to synaptic dysfunction and neuronal death.
+
+Targeting neuroinflammatory pathways presents a promising therapeutic strategy, with anti-inflammatory drugs exploring their potential to mitigate cognitive decline in AD patients. Emerging therapies aim at modulating microglial activity or blocking specific inflammatory pathways without compromising their protective functions. Understanding the precise mechanisms through which inflammation contributes to Alzheimer's pathology will be crucial for developing effective interventions.
 MAINBODY:
 CRITIQUES:
 
@@ -311,6 +316,9 @@ Alzheimer's & dementia, 12(6), 719-732.
 
 11.Bettinetti‐Luque, M., Trujillo‐Estrada, L., Garcia‐Fuentes, E., Andreo‐Lopez, J., Sanchez‐Varo, R., Garrido‐Sánchez, L., ... & Baglietto‐Vargas, D. (2024). Adipose tissue as a therapeutic target for vascular damage in Alzheimer's disease.
 British Journal of Pharmacology, 181(6), 840-878.
+
+12.McGeer, P. L., & McGeer, E. G. (2015). Targeting microglia for the treatment of Alzheimer’s disease.
+Expert opinion on therapeutic targets, 19(4), 497-506.
 
 
 
