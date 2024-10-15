@@ -272,13 +272,38 @@ Limitations of their review include heterogeneity among studies regarding sample
 
 # Alzheimer's Disease
 ## " The Role of Inflammation in Alzheimer's Disease
-INRODUCTION:Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive decline, memory loss, and behavioral changes. The exact etiology of AD remains complex, but recent research has increasingly highlighted the significant role that inflammation plays in its pathogenesis. Neuroinflammation refers to the inflammatory response within the central nervous system (CNS), including the brain and spinal cord, primarily mediated by glial cells such as microglia and astrocytes. In a healthy brain, these cells act as guardians, clearing debris and promoting repair. However, in AD, this protective mechanism can become dysregulated.
 
-Microglia are particularly important in AD as they are responsible for phagocytosing amyloid-beta plaques, which are hallmark features of the disease. Chronic activation of microglia can lead to a sustained inflammatory response that exacerbates neuronal damage rather than protecting it. Research has shown that amyloid-beta accumulation triggers an inflammatory response in the brain, leading to the proliferation and release of pro-inflammatory cytokines such as TNF-α and IL-1β.
+INRODUCTION:Alzheimer's disease (AD) is a progressive neurodegenerative disorder characterized by cognitive decline, memory loss, and
+behavioral changes. The exact etiology of AD remains complex, but recent research has increasingly highlighted the significant role 
+that inflammation plays in its pathogenesis. Neuroinflammation refers to the inflammatory response within the central nervous system
+(CNS), including the brain and spinal cord, primarily mediated by glial cells such as microglia and astrocytes. In a healthy brain,
+these cells act as guardians, clearing debris and promoting repair. However, in AD, this protective mechanism can become dysregulated.
+
+Microglia are particularly important in AD as they are responsible for phagocytosing amyloid-beta plaques, which are hallmark features
+of the disease. Chronic activation of microglia can lead to a sustained inflammatory response that exacerbates neuronal damage rather 
+than protecting it. Research has shown that amyloid-beta accumulation triggers an inflammatory response in the brain, leading to the
+proliferation and release of pro-inflammatory cytokines such as TNF-α and IL-1β.
 These cytokines can further promote neuroinflammation and contribute to synaptic dysfunction and neuronal death.
 
-Targeting neuroinflammatory pathways presents a promising therapeutic strategy, with anti-inflammatory drugs exploring their potential to mitigate cognitive decline in AD patients. Emerging therapies aim at modulating microglial activity or blocking specific inflammatory pathways without compromising their protective functions. Understanding the precise mechanisms through which inflammation contributes to Alzheimer's pathology will be crucial for developing effective interventions.
-MAINBODY:
+Targeting neuroinflammatory pathways presents a promising therapeutic strategy, with anti-inflammatory drugs exploring their potential
+to mitigate cognitive decline in AD patients. Emerging therapies aim at modulating microglial activity or blocking specific inflammatory
+pathways without compromising their protective functions. Understanding the precise mechanisms through which inflammation contributes to
+Alzheimer's pathology will be crucial for developing effective interventions.
+MAINBODY
+:Alzheimer's disease (AD) is a neurodegenerative disorder characterized by cognitive decline and memory loss. Two contrasting theories exist regarding the role of inflammation in AD pathophysiology: the Amyloid Cascade Hypothesis and the Neuroinflammation Hypothesis. The Amyloid Cascade Hypothesis suggests that the accumulation of amyloid-beta (Aβ) plaques in the brain is the primary event leading to AD, triggering a cascade of neurotoxic events, including
+inflammation. This theory has been influential but has faced criticism due to failures in clinical trials targeting Aβ without significant
+cognitive benefits for patients.
+
+The Neuroinflammation Hypothesis emphasizes that inflammation itself plays a central role in the development and progression of AD, 
+independent of amyloid pathology. This theory suggests that neuroinflammatory processes initiated by factors such as tau pathology,
+oxidative stress, or environmental toxins can lead to chronic activation of microglia and astrocytes, contributing directly to neuronal
+injury and cognitive impairment. Evidence shows elevated levels of pro-inflammatory cytokines in the brains and cerebrospinal fluid of
+Alzheimer's patients, and genetic studies have identified variants associated with increased risk for AD linked to immune response pathways.
+
+However, this hypothesis also faces challenges regarding causality, as it remains unclear whether inflammation is a cause or consequence
+of Alzheimer's pathology. Both theories highlight different aspects of how inflammation may contribute to Alzheimer's disease from
+opposing perspectives. The ongoing debate highlights the complexity of Alzheimer's disease and underscores the need for further research
+into these mechanisms to develop effective therapeutic strategies.
 CRITIQUES:
 
 # REFERRENCES:
